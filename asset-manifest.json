@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/animatedreact/static/css/main.0644fb2c.css",
+    "main.js": "/animatedreact/static/js/main.464dbb1b.js",
+    "static/media/hero.png": "/animatedreact/static/media/hero.decd6e523fe133c3c563.png",
+    "static/media/avatarImage.jpg": "/animatedreact/static/media/avatarImage.60df37b3d3914c9ef148.jpg",
+    "static/media/Destination5.png": "/animatedreact/static/media/Destination5.8db742a0db2114f7116a.png",
+    "static/media/Destination2.png": "/animatedreact/static/media/Destination2.64eec9804e3149d26787.png",
+    "static/media/Destination1.png": "/animatedreact/static/media/Destination1.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination6.png": "/animatedreact/static/media/Destination6.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination4.png": "/animatedreact/static/media/Destination4.c19a433ba2f75f2cd33b.png",
+    "static/media/Destination3.png": "/animatedreact/static/media/Destination3.b4028caa98dffd19d08e.png",
+    "index.html": "/animatedreact/index.html",
+    "main.0644fb2c.css.map": "/animatedreact/static/css/main.0644fb2c.css.map",
+    "main.464dbb1b.js.map": "/animatedreact/static/js/main.464dbb1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0644fb2c.css",
+    "static/js/main.464dbb1b.js"
+  ]
+}
